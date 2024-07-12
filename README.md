@@ -1,1 +1,3 @@
-# Leetcode-Easy-Problems
+# Leetcode-Problems
+
+## Difficulty Level: Easy
